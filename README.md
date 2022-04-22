@@ -2,6 +2,7 @@
 Challenge - This was a course challenge provided for us by the state of CS112 course.
 
 The scrapper was built using the GoLang features and fast 💨 implementation.
+
 The **authors** of the project are:
 - Ispas Jany-Gabriel (group 142)
 - Gheorghe Liviu-Ionut (group 144)
